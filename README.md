@@ -9,6 +9,6 @@
 
 **TFLite_detection_webcam.py** 에 실시간 감지 후 캡쳐 코드파일이 있습니다.
 
-#### 시연영상 입니다.
+#### 시연영상 입니다!
 
 [![Video Label](http://img.youtube.com/vi/sOjqqFMf1UM/0.jpg)](https://youtu.be/sOjqqFMf1UM)
